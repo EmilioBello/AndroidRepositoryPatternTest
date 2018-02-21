@@ -36,7 +36,6 @@ import static org.junit.Assert.assertNull;
 
 @RunWith(AndroidJUnit4.class)
 @MediumTest
-@RunListener.ThreadSafe
 public class RepositoryRealmTest {
 
     @BeforeClass
